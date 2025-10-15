@@ -1,7 +1,7 @@
 # Hi, I'm Miguel 👋
 
 **Computer Science — 1st Year**  
-Learning C, Python, data structures, and web development.
+Learning C, Python, and web development.
 
 - 🔭 Building: simple chess engine, small CLI tools, course projects
 - 🌱 Currently learning: Git, Algorithms, and System Design basics
